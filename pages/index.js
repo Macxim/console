@@ -51,7 +51,7 @@ export default function Home() {
 
               <p className="font-captions text-center uppercase text-[0.8125rem] leading-normal mt-16 lg:mt-24 text-console-green tracking-widest">Coming Summer 2022</p>
 
-              <h1 className="mt-4 text-3xl font-medium  text-center text-white font-headlines md:mt-8 md:text-4xl xl:leading-[3.3rem] xl:text-5xl">The best way to build and grow your decentralized community is coming</h1>
+              <h1 className="mt-4 text-3xl font-medium  text-center text-white font-headlines md:mt-8 md:text-5xl xl:leading-[3.3rem] xl:text-6xl">Where decentralized communities thrive</h1>
 
               <p className="mt-8 text-lg font-normal text-center text-white sm:text-xl">Sign up and be the first to hear when we launch</p>
 
