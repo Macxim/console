@@ -49,7 +49,7 @@ export default function Home() {
                 <Logo />
               </div>
 
-              <p className="font-captions text-center uppercase text-[0.8125rem] leading-normal mt-16 lg:mt-24 text-console-green tracking-widest">Coming Summer 2022</p>
+              <p className="font-captions text-center uppercase text-[0.8125rem] leading-normal mt-16 lg:mt-24 text-console-green tracking-widest">Coming Soon</p>
 
               <h1 className="mt-4 text-3xl font-medium  text-center text-white font-headlines md:mt-8 md:text-5xl xl:leading-[3.3rem] xl:text-6xl">Where decentralized communities thrive</h1>
 
