@@ -45,7 +45,7 @@ export default function Form({ status }) {
             type="submit"
             className="h-12 mt-4 w-full inline-flex justify-center items-center px-[2.25rem] py-[0.875rem] text-[0.9375rem] font-medium bg-console-green border border-transparent text-console-black hover:bg-[#23E6AB] focus:outline-none focus:ring-2 focus:ring-offset-0 focus:ring-[#03CC8F] rounded-2xl"
           >
-            Sign Up
+            Join Waitlist
           </button>
         </div>
       </form>
