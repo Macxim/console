@@ -44,12 +44,12 @@ export default function Home() {
       <div className="relative z-10 flex flex-col items-center sm:max-w-3xl sm:mx-auto">
         <main>
           <div className="relative">
-            <div className="flex flex-col px-6 py-8 sm:pt-12 sm:pb-6 sm:px-16">
+            <div className="flex flex-col px-6 py-8 sm:pt-24 xl:pt-32 sm:pb-6 sm:px-16">
               <div className="mx-auto">
                 <Logo />
               </div>
 
-              <h1 className="mt-4 text-3xl font-medium text-center text-white font-headlines md:mt-40 md:text-5xl xl:leading-[3.3rem] xl:text-6xl">Where decentralized communities thrive</h1>
+              <h1 className="mt-4 text-3xl font-medium text-center text-white font-headlines md:mt-20 md:text-5xl xl:leading-[3.3rem] xl:text-6xl">Where decentralized communities thrive</h1>
 
               {/* <p className="mt-8 text-lg font-normal text-center text-white sm:text-xl">Sign up and be the first to hear when we launch</p> */}
 
