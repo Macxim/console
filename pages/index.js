@@ -49,7 +49,7 @@ export default function Home() {
                 <Logo />
               </div>
 
-              <h1 className="mt-4 text-3xl font-medium text-center text-white font-headlines md:mt-20 md:text-5xl xl:leading-[3.3rem] xl:text-6xl">Where decentralized communities thrive</h1>
+              <h1 className="mt-4 text-3xl font-medium text-center text-white font-headlines md:mt-40 md:text-5xl xl:leading-[3.3rem] xl:text-6xl">Where decentralized communities thrive</h1>
 
               {/* <p className="mt-8 text-lg font-normal text-center text-white sm:text-xl">Sign up and be the first to hear when we launch</p> */}
 
