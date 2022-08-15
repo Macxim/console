@@ -12,7 +12,7 @@ export default function Footer () {
             </div>
             <div className="mx-auto text-center flex-shrink-0 w-full mt-2 sm:mt-0 text-white/50 lg:mt-0 sm:w-auto text-[0.9375rem] flex sm:items-center flex-col items-start sm:flex-row">
               <div className="order-1 mx-auto mt-4 space-y-1 sm:space-y-0 sm:mt-0 sm:divide-x sm:divide-white/25">
-                <a href="https://www.blog.console.xyz/" target="_blank" rel="noopener noreferrer" className="block transition duration-300 sm:inline sm:ml-4 sm:mr-4 text-white/50 hover:text-white">
+                <a href="https://blog.console.xyz/" target="_blank" rel="noopener noreferrer" className="block transition duration-300 sm:inline sm:ml-4 sm:mr-4 text-white/50 hover:text-white">
                   Blog
                 </a>
                 <a href="https://jobs.console.xyz" target="_blank" rel="noopener noreferrer" className="block transition duration-300 sm:inline sm:pl-4 sm:mr-4 text-white/50 hover:text-white">
