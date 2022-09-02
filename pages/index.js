@@ -18,8 +18,8 @@ export default function Home() {
         <meta name="description" content="The best way to build and grow your decentralized community" />
 
         {/* Twitter */}
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@consoledao" />
         <meta name="twitter:creator" content="" key="twhandle" />
         <meta name="twitter:title" content="The best way to build and grow your decentralized community" />
 
