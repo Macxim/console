@@ -24,7 +24,7 @@ export default function Home() {
         <meta name="twitter:title" content="The best way to build and grow your decentralized community" />
 
         {/* Open Graph */}
-        <meta property="og:image" content={`${router.basePath}/console-og.png`} key="ogimage" />
+        <meta property="og:image" content="/console-og.png" key="ogimage" />
         <meta property="og:title" content="The best way to build and grow your decentralized community" />
         <meta property="og:site_name" content="Console" />
         <meta property="og:url" content="" />
