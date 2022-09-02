@@ -18,16 +18,16 @@ export default function Home() {
         <meta name="description" content="The best way to build and grow your decentralized community" />
 
         {/* Twitter */}
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@consoledao" />
         <meta name="twitter:creator" content="" key="twhandle" />
         <meta name="twitter:title" content="The best way to build and grow your decentralized community" />
 
         {/* Open Graph */}
-        <meta property="og:image" content={`${router.basePath}/console-og.png`} key="ogimage" />
+        <meta property="og:image" content="https://www.console.xyz/console-og.png" key="ogimage" />
         <meta property="og:title" content="The best way to build and grow your decentralized community" />
         <meta property="og:site_name" content="Console" />
-        <meta property="og:url" content="" />
+        <meta property="og:url" content="https://www.console.xyz/" />
         <meta property="og:description" content="The best way to build and grow your decentralized community" />
         <meta property="og:type" content="website" />
 
