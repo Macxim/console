@@ -24,10 +24,10 @@ export default function Home() {
         <meta name="twitter:title" content="The best way to build and grow your decentralized community" />
 
         {/* Open Graph */}
-        <meta property="og:image" content="/console-og.png" key="ogimage" />
+        <meta property="og:image" content="https://www.console.xyz/console-og.png" key="ogimage" />
         <meta property="og:title" content="The best way to build and grow your decentralized community" />
         <meta property="og:site_name" content="Console" />
-        <meta property="og:url" content="" />
+        <meta property="og:url" content="https://www.console.xyz/" />
         <meta property="og:description" content="The best way to build and grow your decentralized community" />
         <meta property="og:type" content="website" />
 
