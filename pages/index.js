@@ -15,23 +15,23 @@ export default function Home() {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
-        <meta name="description" content="The best way to build and grow your decentralized community" />
+        <meta name="description" content="Console is the most secure Web3 chat app with crypto wallet login, NFT token gating, events, and DAO tooling." />
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@consoledao" />
         <meta name="twitter:creator" content="" key="twhandle" />
-        <meta name="twitter:title" content="The best way to build and grow your decentralized community" />
+        <meta name="twitter:title" content="Web3 chat for decentralized communities" />
 
         {/* Open Graph */}
         <meta property="og:image" content="https://www.console.xyz/console-og.png?20220902" key="ogimage" />
-        <meta property="og:title" content="The best way to build and grow your decentralized community" />
+        <meta property="og:title" content="Web3 chat for decentralized communities" />
         <meta property="og:site_name" content="Console" />
         <meta property="og:url" content="https://www.console.xyz/" />
-        <meta property="og:description" content="The best way to build and grow your decentralized community" />
+        <meta property="og:description" content="Console is the most secure Web3 chat app with crypto wallet login, NFT token gating, events, and DAO tooling." />
         <meta property="og:type" content="website" />
 
-        <title>Console - The best way to build and grow your decentralized community</title>
+        <title>Console | Web3 chat for decentralized communities</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
