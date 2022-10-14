@@ -15,7 +15,7 @@ export default function Home() {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
-        <meta name="description" content="Console is the most secure Web3 chat app with crypto wallet login, NFT token gating, events, and DAO tooling." />
+        <meta name="description" content="Console is the most secure Web3 chat app offering crypto wallet login, NFT token gating, events, and DAO tooling." />
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -28,7 +28,7 @@ export default function Home() {
         <meta property="og:title" content="Web3 chat for decentralized communities" />
         <meta property="og:site_name" content="Console" />
         <meta property="og:url" content="https://www.console.xyz/" />
-        <meta property="og:description" content="Console is the most secure Web3 chat app with crypto wallet login, NFT token gating, events, and DAO tooling." />
+        <meta property="og:description" content="Console is the most secure Web3 chat app offering crypto wallet login, NFT token gating, events, and DAO tooling." />
         <meta property="og:type" content="website" />
 
         <title>Console | Web3 chat for decentralized communities</title>
